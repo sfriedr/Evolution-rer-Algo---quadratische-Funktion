@@ -28,14 +28,13 @@ Der Fitnesswert ist das negierte Ergebnis der Krümmungsfunktion. Die Krümmungs
 \( κ(x)=\left| \frac{f''(x)}{(1+(f'(x))^2)^(3/2)} \right| \)
 
 
-## Ausgaben
-Es wird die Funktion im Koordinatensystem geplotet ...
+## Funktion im Koordinatensystem
 ![Funktion im Koordinatensystem](/docs/Screenshots/Fig1.png "Funktion")
 
-... die Entwicklung der Gene über die Generationen hinweg ...
+## Gen-Entwicklung über Generationen
 ![Gen-Entwicklung](/docs/Screenshots/Fig2.png "Gene")
 
-... und Verbesserung des Fitnesswertes sowie sein Min-Max-Bereich über die Generationen hinweg.
+## Fitnessverlauf-Diagramm (beste Fitness pro Generation und Fitnessbandbreite)
 ![Fitness-Entwicklung](/docs/Screenshots/Fig3.png "Zeitreihe")
 
 Des Weiteren werden in der Konsole der Grund für den Abbruch des Programms angegeben, sowie die Gene des besten Individuum als auch die Generation, in welchem dieses Individuum entstand.
